@@ -1,6 +1,6 @@
 # E-commerce React App
 
-An interactive React web application for browsing and exploring product listings. Users can view a list of products, navigate through product details, and seamlessly browse between pages. Built with React.js, React Router, and Bootstrap for styling.
+Welcome to the e-commerce-react-app repository! This is a React web application for browsing and exploring e-commerce products. Users can view a list of products, navigate through product details, and seamlessly browse between pages. Built with React.js, React Router, and Bootstrap for styling.
 
 ## Features
 
@@ -21,11 +21,11 @@ An interactive React web application for browsing and exploring product listings
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aswanirajck/E-commerce-react-app.git
 
 2. Navigate to the project directory:
    ```bash
-   cd product-listing-app
+   cd e-commerce-react-app
 
 3. Install dependencies:
    ```bash
